@@ -1,0 +1,95 @@
+commit a8bcad4d64b4e2d5b7b4080373f894ce59888aa8
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Sun Mar 6 20:55:29 2022 +1100
+
+    Final commit with edit hopefully
+
+commit 2c5db785b2d9407ac69f8e28aa36a33f285d1f5a
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Sat Mar 5 22:22:06 2022 +1100
+
+    Added comments and final edit
+
+commit 141f513cb26f5ab4fab98c7843a1bd1ad64672c8
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Sat Mar 5 22:01:03 2022 +1100
+
+    Added comments
+
+commit fd6dee105a9438904e1fa00526603384de18ba6e
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Sat Mar 5 00:21:14 2022 +1100
+
+    added readme
+
+commit 7bd270c1a9ffe8f602ce4408854835472994b87c
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Sat Mar 5 00:17:53 2022 +1100
+
+    Added README file
+
+commit c3b12f11d7fd459f9955a69bc00d552d95d24c5e
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Fri Mar 4 21:16:55 2022 +1100
+
+    Finished product
+
+commit 35f2d5cf0acad79e8594c4dbaee01870a1502aec
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Fri Mar 4 17:12:19 2022 +1100
+
+    Nearly done
+
+commit ad2b467148f6c040a796d758b8c041475a20a77c
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Thu Mar 3 23:19:50 2022 +1100
+
+    Finished all content
+
+commit 9fda4118d68f1137d54070b8c762f21af5716151
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Tue Mar 1 23:23:15 2022 +1100
+
+    Testing products
+
+commit 1e02b1ac75d3ce6fea3b57a29620e6582753bacd
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Tue Mar 1 16:06:09 2022 +1100
+
+    latest commit
+
+commit 539dabc2fed5f262d2ad56f3c0a5ee8293dde2d5
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Mon Feb 28 22:41:15 2022 +1100
+
+    Nearly there
+
+commit 0c87381f40da54dce5f5c681b9725a0b2b50ec69
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Mon Feb 28 22:29:19 2022 +1100
+
+    5th push
+
+commit 47aee0d8645356089cce45c49e1a46ba828bfd77
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Mon Feb 28 12:26:28 2022 +1100
+
+    4th push
+
+commit ca46978081e3673e9005c2e9cee8fe571d66bd97
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Sun Feb 27 22:41:06 2022 +1100
+
+    Two pages done
+
+commit 9c926e1577f7647da7aab533ec47ebd71966e93b
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Sun Feb 27 01:26:25 2022 +1100
+
+    Second commit
+
+commit 9bd7e7084b4fb3db87202aa42df4b1b38811f668
+Author: Chris Back <chrisback011996@gmail.com>
+Date:   Fri Feb 25 22:48:28 2022 +1100
+
+    Initial commit
