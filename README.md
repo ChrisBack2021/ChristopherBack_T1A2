@@ -2,7 +2,7 @@
 
 **Portfolio website located here: [Portfolio](https://wizardly-visvesvaraya-fd4287.netlify.app/)**
 
-**Github repo located here: [Github](https://github.com/storm0105/T1A2)**
+**Github repo located here: [Github](https://github.com/storm0105/ChristopherBack_T1A2)**
 
 ## Purpose ##
 
