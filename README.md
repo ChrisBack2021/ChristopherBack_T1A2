@@ -1,6 +1,6 @@
 # T1A2 Portfolio Website - By Christopher Back 
 
-**Portfolio website located here: [Portfolio](https://wizardly-visvesvaraya-fd4287.netlify.app/)**
+**Portfolio website located here: [Portfolio](https://chrisback2021.github.io/T1A2/)**
 
 **Github repo located here: [Github](https://github.com/storm0105/ChristopherBack_T1A2)**
 
